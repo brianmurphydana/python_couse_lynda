@@ -1,0 +1,6 @@
+python course
+
+python.org
+pythonfiddle.com
+sublimetext
+aptana studio
